@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>SMB Preday - The Place to Go for Preday Event Information</title>
+<!-- TemplateEndEditable -->
+<link href="../css/template.css" rel="stylesheet" type="text/css" />
+<link href="../favicon.ico" rel="shortcut icon" />
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.thrColHybHdr #sidebar1, .thrColHybHdr #sidebar2 { padding-top: 30px; }
+.thrColHybHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="google-meta" -->
+<!-- TemplateEndEditable -->
+</head>
+<body class="thrColHybHdr">
+<div id="container">
+  <div id="header">
+<!-- TemplateBeginEditable name="header" -->
+    <h1>SMB Preday - The Place. With the Stuff. About the Event. Before the Event.</h1>
+<!-- TemplateEndEditable -->
+	<div class="menu">
+	<ul>
+	<li><a href="/">Home</a></li>
+	<li><a href="/calendar.html">Calendar</a></li>
+	<li><a href="http://www.smbbooks.com/">SMB Books</a></li>
+	<li><a href="/about.html#Contact_Info">Contact Us</a></li>
+	<li><a href="/about.html">About</a></li>
+	<li><a href="mailto:sales@greatlittlebook.com?subject=SMB Preday - Event Information">Email</a></li>
+	<li><a href="/about.html#Conditions_of_Use">Privacy Policy</a></li>
+	</ul>
+	</div>
+	<div id="leaderboardAd"><!-- TemplateBeginEditable name="leaderboardAd" --><span id="flashAlternative"><a href="http://www.smbpreday.com/" target="_blank"><img name="SMBPredayLeaderboardAd" src="../images/726X90_Leaderboard.gif" width="728" height="90" alt="SMB Preday LeaderBoard Ad" title="SMB Preday LeaderBoard Ad"/></a></span><!-- TemplateEndEditable --><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+  <!-- end #header --></div>
+  <div id="contentWrapper">
+	  <div id="sidebar1">
+<form action="http://smbpreday.com/search-results.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0356368103822728:fifkrp-tm4g" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="23" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<br /><br />
+	  <!-- TemplateBeginEditable name="sidebar1" -->
+		<h3>sidebar1 Content</h3>
+		<p>The background color on this div will only show for the length of the content. If you'd like a dividing line instead, place a border on the left side of the #mainContent div if the #mainContent div will always contain more content than the #sidebar1 div. </p>
+		<p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. </p>
+	  <!-- TemplateEndEditable -->
+	<p>Don't see your event listed, please send event information to <a href="mailto:sales@greatlittlebook.com?subject=Preday Event Suggestions">Small Biz Thoughts</a>.</p>
+
+	  <hr />
+	  <h6>SMB Preday is associated with	<a target="_blank" href="http://www.greatlittlebook.com/">Great Little Book Publishing</a> and <a target="_blank" href="http://www.smbbooks.com/">SMB Books</a>.</h6>
+	  <h6>It is not associated with SMB Nation, Phone.com, Third Tier, Trend Micro, or any other venue or organization listed on these pages.</h6>
+	  <!-- end #sidebar1 --></div>
+	  <div id="sidebar2">
+	  <!-- TemplateBeginEditable name="sidebar2" -->  
+		<h3>sidebar2 Content</h3>
+		<p>The background color on this div will only show for the length of the content. If you'd like a dividing line instead, place a border on the right side of the #mainContent div if the #mainContent div will always contain more content than the #sidebar2 div. </p>
+		<p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. </p>
+	  <!-- TemplateEndEditable -->
+	  <script type="text/javascript"><!--
+google_ad_client = "pub-0356368103822728";
+/* SMBPredayRightText200x90 */
+google_ad_slot = "2998865225";
+google_ad_width = 200;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>	
+	  <!-- end #sidebar2 --></div>
+	  <div id="mainContent">
+	  <!-- TemplateBeginEditable name="mainContent" -->    
+		<h1> Main Content </h1>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent aliquam,  justo convallis luctus rutrum, erat nulla fermentum diam, at nonummy quam  ante ac quam. Maecenas urna purus, fermentum id, molestie in, commodo  porttitor, felis. Nam blandit quam ut lacus. </p>
+		<p>Quisque ornare risus quis  ligula. Phasellus tristique purus a augue condimentum adipiscing. Aenean  sagittis. Etiam leo pede, rhoncus venenatis, tristique in, vulputate at,  odio. Donec et ipsum et sapien vehicula nonummy. Suspendisse potenti. Fusce  varius urna id quam. Sed neque mi, varius eget, tincidunt nec, suscipit id,  libero. </p>
+		<h2>H2 level heading </h2>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent aliquam,  justo convallis luctus rutrum, erat nulla fermentum diam, at nonummy quam  ante ac quam. Maecenas urna purus, fermentum id, molestie in, commodo  porttitor, felis. Nam blandit quam ut lacus. Quisque ornare risus quis  ligula. Phasellus tristique purus a augue condimentum adipiscing. Aenean  sagittis. Etiam leo pede, rhoncus venenatis, tristique in, vulputate at, odio.</p>
+	  <!-- TemplateEndEditable -->  	
+		<!-- end #mainContent --></div>
+		<!-- clearing child floats --><br class="clearfloat" />
+	<!-- end #contentWrapper --></div>		
+   <div id="footer">
+    <p>Copyright &copy; 2010 Great Little Book Publishing Co., Inc. All Rights Reserved.</p>
+	<div class="menu">
+	<ul>
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./calendar.html">Calendar</a></li>
+	<li><a href="http://www.smbbooks.com/">SMB Books</a></li>
+	<li><a href="./about.html#Contact_Info">Contact Us</a></li>
+	<li><a href="./about.html">About</a></li>
+	<li><a href="mailto:sales@greatlittlebook.com?subject=SMB Preday - Event Information">Email</a></li>
+	<li><a href="./about.html#Conditions_of_Use">Privacy Policy</a></li>
+	</ul>
+  <!-- TemplateBeginEditable name="footer" --> 
+  <!-- TemplateEndEditable -->     	
+	</div>	
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+<script src="http://www.google.com/jsapi?key=ABQIAAAA1jxvYz8JyesJlDkoiBRUahQO7k_7W0EgoE-Je00vQdTCug6yxxS2N2ADCFAV8zKg0dL5g0D4lFdcIA" type="text/javascript"></script>
+<script type="text/javascript" src="../libs/swfobject.js"></script>
+<script type="text/javascript" src="../libs/jquery.js"></script>
+<script type="text/javascript" src="../libs/site.js"></script>
+<!-- TemplateBeginEditable name="tracking-javascript" -->
+<!-- TemplateEndEditable -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17364252-9']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3700816; 
+var sc_invisible=0; 
+var sc_security="9612303f"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="free hit counter"
+href="http://statcounter.com/free_hit_counter.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/3700816/0/9612303f/0/"
+alt="free hit counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body>
+</html>

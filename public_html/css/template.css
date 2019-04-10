@@ -1,0 +1,177 @@
+@charset "utf-8";
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+ol, ul {
+	list-style: none;
+}
+hr {
+	border-style: none;
+	background-color: #556177;
+	height: 2px;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+sup {font-size:small; vertical-align:super;}
+sub {font-size:small; vertical-align:sub;}
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	/*background: #385db8 url('../images/bg-tile.jpg') 0 0 repeat;*/
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #000000;
+	line-height: 1.125em;	
+}
+.thrColHybHdr #container { 
+	width: 100%;
+	background: #385db8;
+	text-align: left; 
+}  
+.thrColHybHdr #header { 
+	background: #6081c2; 
+	padding: 0 10px;  
+	width: 960px;
+	margin: 0 auto;
+} 
+.thrColHybHdr #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+}
+.thrColHybHdr #contentWrapper { 
+	background: #FFFFFF; 
+	padding: 0 10px;  
+	width: 960px;
+	margin: 0 auto;
+} 
+.thrColHybHdr #sidebar1 {
+	float: left; 
+	width: 11em; 
+	background: #9fb5de; 
+	padding: 15px 0; 
+}
+.thrColHybHdr #sidebar2 {
+	float: right; 
+	width: 12.5em; 
+	background: #9fb5de; 
+	padding: 15px 0; 
+}
+.thrColHybHdr #sidebar1 h3, .thrColHybHdr #sidebar1 p, .thrColHybHdr #sidebar2 p, .thrColHybHdr #sidebar2 h3 {
+	margin-left: 10px; 
+	margin-right: 10px;
+}
+.thrColHybHdr #mainContent {
+ 	margin: 0 12em 0 12em;  
+	padding: 0 2em 0 2em; 
+} 
+.thrColHybHdr #footer { 
+	padding: 0 10px; 
+	background:#6081c2;
+	width: 960px;
+	margin: 0 auto;	
+} 
+.thrColHybHdr #footer p {
+	margin: 0; 
+	padding: 10px 0; 
+}
+
+/* Miscellaneous classes for reuse */
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+#header {position: relative;}
+#header h1 {display: none;}
+#header div#leaderboardAd {position: absolute; right: 10px; bottom: 30px; }
+#header div.menu{ background: url('../images/SMBPreday-Banner.jpg') 0 0 no-repeat; height: 330px;}
+#header div.menu {position: relative;}
+#header div.menu ul {position: absolute; bottom: 0; margin: 0 auto; width: 100%;}
+#header div.menu ul li {display: inline-block; padding: 0 10px 10px;}
+#header div.menu ul li a {text-decoration: underline; color: white;}
+h1,h2,h3,h4,h5,h6 { font-weight: bold; }
+h1 {
+	font-size: 2em;
+	line-height: 2.25em;
+}
+h2 {
+	font-size: 1.5em;
+	line-height: 1.75em;
+}
+h3  {
+	font-size: 1em;
+	line-height: 1.5em;
+	font-style: italic;
+}
+h4 {
+	font-size: 0.875em;
+	line-height: 1.125em;
+}
+h5 {
+	font-size: 0.875em;
+	line-height: 1.125em;
+	font-style: italic;
+}
+h6 {
+	font-size: 0.625em;
+	line-height: 1em;
+}
+#sidebar1 h2 {
+	font-size: 1.125em;
+	line-height: 1.5em;
+	margin: 0 0 10px;
+}
+#sidebar1 h3 { margin: 20px 0 10px;}
+#zenithad {text-align: center;}
+#footer p {margin: 0 auto;}
+#footer div.menu {position: relative; height: 30px;}
+#footer div.menu ul {position: absolute; bottom: 0; margin: 0 auto; width: 100%;}
+#footer div.menu ul li {display: inline-block; padding: 0 10px 10px;}
+#footer div.menu ul li a {text-decoration: underline; color: white;}
+#mainContent p {margin: 20px 0;}
+#mainContent ul {list-style: circle; margin-bottom: 20px;}
+#mainContent ul li {font-size: 0.875em; margin: 5px 0; padding-bottom: 5px; text-indent: 0.625em;}
+#mainContent ul li span.major-event-highlight {
+	font-size: 1.5em;
+	line-height: 1.75em;
+}
+#mainContent ul li ul {list-style: box;}
+#mainContent ul li ul li {text-indent: 0.875em;}
+#mainContent ul li ul li span.minor-event-highlight {
+	font-size: 1.125em;
+	line-height: 1.25em;
+}
+
+body.searchResultsPage #mainContent {
+ 	margin: 0;  
+	padding: 0 2em 0 2em; 
+} 
